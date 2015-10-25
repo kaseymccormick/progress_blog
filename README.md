@@ -18,9 +18,9 @@ tagging feature
 pages/filters to show all of a type of post
 
 ##technical decisions
-Ruby backend
-Ruby on rails setup (need practice/theoretically quicker)
-Active Record
-likely not REST (upgrade to this later)
-Bootstrap framework (Just get it live, design later)
-Heroku hosting
+- Ruby backend
+- Ruby on rails setup (need practice/theoretically quicker)
+- Active Record
+- likely not REST (upgrade to this later)
+- Bootstrap framework (Just get it live, design later)
+- Heroku hosting
